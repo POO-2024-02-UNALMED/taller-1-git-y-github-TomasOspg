@@ -1,0 +1,1 @@
+La carpeta "archivo" no se evidenciaba dentro del repositorio de GitHub Desktop, esto por la razón que GitHub Desktop ignora las carpetas vacías, y no fue sino hasta la creación de este archivo "respuesta.txt", que la carpeta archivo no se mostró dentro del respositorio clonado.
